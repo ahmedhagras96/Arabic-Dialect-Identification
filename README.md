@@ -10,7 +10,6 @@
 ## Data Preprocessing
 - Clean our data from English and symbol characters to avoid distracting model with chars that not represented our required dialects
 - For embedding we use different types of embedding with different models according to logic we are follow you will find further information in the Model Training notebook
-- 
 
 ## ML & DL Applied Models
 - SVM classifier when using a word n-grams embedding
