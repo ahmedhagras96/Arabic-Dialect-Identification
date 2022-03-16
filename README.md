@@ -14,4 +14,4 @@
 ## ML & DL Applied Models
 - SVM classifier when using a word n-grams embedding
 - SGD classifier when using a Tf-idf Vectorizer
-- RNN with contextualized embedding
+- RNN with contextualized embeddin
